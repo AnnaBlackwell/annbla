@@ -99,7 +99,7 @@ a {
 }
 
 .menu--miranda .menu__item--current .menu__link {
-	color: #f6f9a7;
+	color: #ECFEE8;
 }
 
 .menu--miranda .menu__item::before,
@@ -108,7 +108,7 @@ a {
 .menu--miranda .menu__link::after {
 	content: '';
 	position: absolute;
-	background: #f6f9a7;
+	background: #ECFEE8;
 	-webkit-transition: -webkit-transform 0.1s;
 	transition: transform 0.1s;
 	-webkit-transition-timing-function: cubic-bezier(1, 0.68, 0.16, 0.9);
